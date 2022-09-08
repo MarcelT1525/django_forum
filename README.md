@@ -1,1 +1,2 @@
-# django_forum
+# django_forum1.0
+
